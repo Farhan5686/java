@@ -1,0 +1,24 @@
+button{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: rgb(34, 221, 155);
+    color: rgb(55, 43, 43);
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    background-color: brown;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+}
+
+ 
